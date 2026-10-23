@@ -7,7 +7,10 @@ using namespace std;
 // print credit card information
 string credit_card::credit_card_info()
 {
-    string info = "Credit Card: \n" + "Credit card number: " + cc_number + "\nCredit Card Limit: " + to_string(limit) + "\nCurrent Balance: " + to_string(current_balance);
+    string info = "Credit Card: \n";
+    info += "Credit card number: " + to_string(cc_number);
+    info += "\nCredit Card Limit: " + to_string(limit);
+    info += "\nCurrent Balance: " + to_string(current_balance);
     return info;
 }
 

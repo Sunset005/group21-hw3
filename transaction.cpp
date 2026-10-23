@@ -1,14 +1,15 @@
 //code for transaction struct here
 #include <iostream>
-#include "transaction.h";
+#include <string>
+#include "transaction.h"
 
 using namespace std;
 
 string transaction::transaction_info()
 {
-    string info = "All Transactions:\n" + "Transaction #: " + to_string(transaction_number) + "\n";
-    info += "Customer: \n" + "Name: " + customer.name() + "\nPhone: " + customer.phone() + "\n" + customer.person_address().address_info() + "\n";
-    info += "Credit Card: \n" + "Credit card number: " + customer.person_credit_card().credit_card_number() + "\n" + "Credit Card Limit: " + to_string(customer.credit_card().limit()) + "\n" + "Current Balance: " + to_string(customer.credit_card().current_balance()) + "\n";
-    info += "Product: \n" + "Name: " + purchased_item.name + "\nDescription: " + purcahsed_item.description + "\nPrice: " + to_string(purchased_item.price) + "\n Quantity: " + to_string(quantity) + "\n";
+    string info = "All Transactions: \nTransaction #: " + std::to_string(transaction_number) + "\n";
+    info += "Customer: \nName: " + customer.name() + "\nPhone: " + customer.phone() + "\n" + customer.person_address().address_info() + "\n";
+    info += "Credit Card: \nCredit card number: " + customer.person_credit_card().cc_number + std::string("\nCredit Card Limit: ") + std::to_string(customer.person_credit_card().limit) + "\nCurrent Balance: " + std::to_string(customer.person_credit_card().current_balance) + "\n";
+    info += "Product: \nName: " + purchased_item.name + "\nDescription: " + purchased_item.description + "\nPrice: " + std::to_string(purchased_item.price) + "\n Quantity: " + std::to_string(quantity) + "\n";
     return info;
 }
