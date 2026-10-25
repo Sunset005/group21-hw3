@@ -1,5 +1,7 @@
 //implementation code for credit_card struct here
 #include <iostream>
+#include <sstream>
+#include <iomanip>
 #include "credit_card.h"
 
 using namespace std;
@@ -7,11 +9,12 @@ using namespace std;
 // print credit card information
 string credit_card::credit_card_info()
 {
-    string info = "Credit Card: \n";
-    info += "Credit card number: " + to_string(cc_number);
-    info += "\nCredit Card Limit: " + to_string(limit);
-    info += "\nCurrent Balance: " + to_string(current_balance);
-    return info;
+    ostringstream out;
+    out << fixed << setprecision(2);
+    out << "Credit card number: " << cc_number << "\n";
+    out << "Credit Card Limit: $" << limit << "\n";
+    out << "Current Balance: $" << current_balance;
+    return out.str(); 
 }
 
 bool credit_card::make_purchase(double purchase_amount)

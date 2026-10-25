@@ -1,8 +1,14 @@
-CXX = g++
-CXXFLAGS = -Wall -Wextra -std=c++11
-
-hw3: main.cpp address.cpp credit_card.cpp person.cpp product.cpp store.cpp transaction.cpp
-	$(CXX) $(CXXFLAGS) $^ -o $@
-
+CXX      = g++
+CXXFLAGS = -std=c++11 -Wall -Wextra
+ 
+OBJS = main.o address.o credit_card.o person.o product.o store.o transaction.o
+ 
+store_app: $(OBJS)
+	$(CXX) $(CXXFLAGS) -o store_app $(OBJS)
+ 
+%.o: %.cpp
+	$(CXX) $(CXXFLAGS) -c $<
+ 
 clean:
-	rm -f hw3
+	rm -f *.o store_app
+ 

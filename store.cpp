@@ -72,6 +72,7 @@ transaction Store::get_transaction(int index)
 bool Store::make_purchase(Person customer, product item, int amount)
 {
     transaction new_transaction;
+    new_transaction.transaction_number = this->num_transactions_ + 1;
     new_transaction.customer = customer;
     new_transaction.purchased_item = item;
     new_transaction.quantity = amount;
@@ -81,27 +82,27 @@ bool Store::make_purchase(Person customer, product item, int amount)
 
 string Store::product_info()
 {
-    string info = "Products:\n";
+    string info = "";
     for (int i = 0; i < this->num_products_; i++)
     {
-        info += this->products_[i].product_info() + "\n";
+        info += this->products_[i].product_info();
     }
     return info;
 }
 
 string Store::transaction_info()
 {
-    string info = "Transactions:\n";
+    string info = "";
     for (int i = 0; i < this->num_transactions_; i++)
     {
-        info += this->transactions_[i].transaction_info() + "\n";
+        info += this->transactions_[i].transaction_info();
     }
     return info;
 }
 
 string Store::customer_info()
 {
-    string info = "Customers:\n";
+    string info = "";
     for (int i = 0; i < this->num_customers_; i++)
     {
         info += this->customers_[i].person_info() + "\n";
@@ -111,11 +112,7 @@ string Store::customer_info()
 
 string Store::store_info()
 {
-    string info = "Store Info:\n";
-    info += "Customers: " + std::to_string(this->num_customers_) + "\n";
-    info += "Products: " + std::to_string(this->num_products_) + "\n";
-    info += "Transactions: " + std::to_string(this->num_transactions_) + "\n";
-    return info;
+    return "";
 }
 
 string Store::purchase_history(Person customer)
@@ -123,7 +120,7 @@ string Store::purchase_history(Person customer)
     string info = "Purchase History for " + customer.name() + ":\n";
     for (int i = 0; i < this->num_transactions_; i++)
     {
-        if (this->transactions_[i].customer.name() == customer.name()) // Removed stray semicolon here
+        if (this->transactions_[i].customer.name() == customer.name()) 
         {
             info += this->transactions_[i].transaction_info() + "\n";
         }

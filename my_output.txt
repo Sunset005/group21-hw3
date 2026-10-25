@@ -1,0 +1,2874 @@
+Store info: 
+
+
+Customers: 
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $0.00
+Name: Fresh Prince
+Phone: 111-222-3333
+Address:
+451 Hollywood Blvd
+
+Bel Aire
+CA
+13456
+Credit Card:
+Credit card number: 23456789
+Credit Card Limit: $10000.00
+Current Balance: $2500.00
+Name: John Smith
+Phone: 221-098-2818
+Address:
+123 Nowhere Rd
+
+Some City
+Some State
+12345
+Credit Card:
+Credit card number: 11330094
+Credit Card Limit: $500.00
+Current Balance: $150.00
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $1200.00
+Name: Albert Einstein
+Phone: 334-222-1098
+Address:
+1000 Scientific Lane
+EMC^2
+Wurttemberg
+Germany
+11145
+Credit Card:
+Credit card number: 12345678
+Credit Card Limit: $5000.00
+Current Balance: $1500.00
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $500.00
+Name: Maria Gonzalez
+Phone: 128-009-2198
+Address:
+456 Oak Avenue
+
+Rivertown
+TX
+75001
+Credit Card:
+Credit card number: 39104912
+Credit Card Limit: $13000.00
+Current Balance: $10000.00
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $3500.00
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $2000.00
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $3000.00
+
+Products: 
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Name: Headphones
+Description: Noise-cancelling over-ear headphones with Bluetooth connectivity.
+Price: $199.99
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Name: Monitor
+Description: A 27-inch 4K UHD monitor with HDR support.
+Price: $399.99
+Name: Keyboard
+Description: A mechanical keyboard with RGB backlighting.
+Price: $159.99
+Name: Mouse
+Description: A wireless ergonomic mouse with adjustable DPI.
+Price: $49.99
+
+All Transactions: 
+
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 1
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $1329.99
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 2
+Customer:
+Name: Albert Einstein
+Phone: 334-222-1098
+Address:
+1000 Scientific Lane
+EMC^2
+Wurttemberg
+Germany
+11145
+Credit Card:
+Credit card number: 12345678
+Credit Card Limit: $5000.00
+Current Balance: $1749.99
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 3
+Customer:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $1489.97
+Product:
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 4
+Customer:
+Name: Albert Einstein
+Phone: 334-222-1098
+Address:
+1000 Scientific Lane
+EMC^2
+Wurttemberg
+Germany
+11145
+Credit Card:
+Credit card number: 12345678
+Credit Card Limit: $5000.00
+Current Balance: $2249.97
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 2
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: John Smith
+Phone: 221-098-2818
+Address:
+123 Nowhere Rd
+
+Some City
+Some State
+12345
+Credit Card:
+Credit card number: 11330094
+Credit Card Limit: $500.00
+Current Balance: $150.00
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Purchase Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 5
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $4099.97
+Product:
+Name: Headphones
+Description: Noise-cancelling over-ear headphones with Bluetooth connectivity.
+Price: $199.99
+Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 6
+Customer:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $2149.95
+Product:
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 7
+Customer:
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $5799.98
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Quantity: 2
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: John Smith
+Phone: 221-098-2818
+Address:
+123 Nowhere Rd
+
+Some City
+Some State
+12345
+Credit Card:
+Credit card number: 11330094
+Credit Card Limit: $500.00
+Current Balance: $150.00
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Purchase Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 8
+Customer:
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $3499.98
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 9
+Customer:
+Name: Fresh Prince
+Phone: 111-222-3333
+Address:
+451 Hollywood Blvd
+
+Bel Aire
+CA
+13456
+Credit Card:
+Credit card number: 23456789
+Credit Card Limit: $10000.00
+Current Balance: $3299.98
+Product:
+Name: Monitor
+Description: A 27-inch 4K UHD monitor with HDR support.
+Price: $399.99
+Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 10
+Customer:
+Name: Fresh Prince
+Phone: 111-222-3333
+Address:
+451 Hollywood Blvd
+
+Bel Aire
+CA
+13456
+Credit Card:
+Credit card number: 23456789
+Credit Card Limit: $10000.00
+Current Balance: $8999.95
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 11
+Customer:
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $3979.95
+Product:
+Name: Keyboard
+Description: A mechanical keyboard with RGB backlighting.
+Price: $159.99
+Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 12
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $1929.96
+Product:
+Name: Headphones
+Description: Noise-cancelling over-ear headphones with Bluetooth connectivity.
+Price: $199.99
+Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 13
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $4489.94
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 14
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $2879.95
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 1
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $2879.95
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Purchase Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 15
+Customer:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $7849.92
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 16
+Customer:
+Name: Fresh Prince
+Phone: 111-222-3333
+Address:
+451 Hollywood Blvd
+
+Bel Aire
+CA
+13456
+Credit Card:
+Credit card number: 23456789
+Credit Card Limit: $10000.00
+Current Balance: $9249.94
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 17
+Customer:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $8179.91
+Product:
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 18
+Customer:
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $8649.95
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 19
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $399.99
+Product:
+Name: Monitor
+Description: A 27-inch 4K UHD monitor with HDR support.
+Price: $399.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 20
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $4649.93
+Product:
+Name: Keyboard
+Description: A mechanical keyboard with RGB backlighting.
+Price: $159.99
+Quantity: 1
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $8649.95
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Purchase Quantity: 3
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $2879.95
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Purchase Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 21
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $3539.93
+Product:
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 22
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $3589.92
+Product:
+Name: Mouse
+Description: A wireless ergonomic mouse with adjustable DPI.
+Price: $49.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 23
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $2299.97
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 24
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $2779.94
+Product:
+Name: Keyboard
+Description: A mechanical keyboard with RGB backlighting.
+Price: $159.99
+Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 25
+Customer:
+Name: Maria Gonzalez
+Phone: 128-009-2198
+Address:
+456 Oak Avenue
+
+Rivertown
+TX
+75001
+Credit Card:
+Credit card number: 39104912
+Credit Card Limit: $13000.00
+Current Balance: $10949.99
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 26
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $4249.90
+Product:
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 27
+Customer:
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $4239.93
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 28
+Customer:
+Name: Maria Gonzalez
+Phone: 128-009-2198
+Address:
+456 Oak Avenue
+
+Rivertown
+TX
+75001
+Credit Card:
+Credit card number: 39104912
+Credit Card Limit: $13000.00
+Current Balance: $11199.98
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 29
+Customer:
+Name: Fresh Prince
+Phone: 111-222-3333
+Address:
+451 Hollywood Blvd
+
+Bel Aire
+CA
+13456
+Credit Card:
+Credit card number: 23456789
+Credit Card Limit: $10000.00
+Current Balance: $9499.93
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 30
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $2909.93
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 31
+Customer:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $8329.88
+Product:
+Name: Mouse
+Description: A wireless ergonomic mouse with adjustable DPI.
+Price: $49.99
+Quantity: 3
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $8329.88
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Purchase Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 32
+Customer:
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $5439.90
+Product:
+Name: Monitor
+Description: A 27-inch 4K UHD monitor with HDR support.
+Price: $399.99
+Quantity: 3
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Albert Einstein
+Phone: 334-222-1098
+Address:
+1000 Scientific Lane
+EMC^2
+Wurttemberg
+Germany
+11145
+Credit Card:
+Credit card number: 12345678
+Credit Card Limit: $5000.00
+Current Balance: $2249.97
+Product:
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Purchase Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 33
+Customer:
+Name: John Smith
+Phone: 221-098-2818
+Address:
+123 Nowhere Rd
+
+Some City
+Some State
+12345
+Credit Card:
+Credit card number: 11330094
+Credit Card Limit: $500.00
+Current Balance: $409.98
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 34
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $8449.91
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Quantity: 2
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $8649.95
+Product:
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Purchase Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 35
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $8929.88
+Product:
+Name: Keyboard
+Description: A mechanical keyboard with RGB backlighting.
+Price: $159.99
+Quantity: 3
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $8929.88
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Purchase Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 36
+Customer:
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $9149.93
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 2
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: John Smith
+Phone: 221-098-2818
+Address:
+123 Nowhere Rd
+
+Some City
+Some State
+12345
+Credit Card:
+Credit card number: 11330094
+Credit Card Limit: $500.00
+Current Balance: $409.98
+Product:
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Purchase Quantity: 1
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: John Smith
+Phone: 221-098-2818
+Address:
+123 Nowhere Rd
+
+Some City
+Some State
+12345
+Credit Card:
+Credit card number: 11330094
+Credit Card Limit: $500.00
+Current Balance: $409.98
+Product:
+Name: Monitor
+Description: A 27-inch 4K UHD monitor with HDR support.
+Price: $399.99
+Purchase Quantity: 2
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: John Smith
+Phone: 221-098-2818
+Address:
+123 Nowhere Rd
+
+Some City
+Some State
+12345
+Credit Card:
+Credit card number: 11330094
+Credit Card Limit: $500.00
+Current Balance: $409.98
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Purchase Quantity: 3
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $5439.90
+Product:
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Purchase Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 37
+Customer:
+Name: Albert Einstein
+Phone: 334-222-1098
+Address:
+1000 Scientific Lane
+EMC^2
+Wurttemberg
+Germany
+11145
+Credit Card:
+Credit card number: 12345678
+Credit Card Limit: $5000.00
+Current Balance: $3199.96
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 38
+Customer:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $8729.86
+Product:
+Name: Headphones
+Description: Noise-cancelling over-ear headphones with Bluetooth connectivity.
+Price: $199.99
+Quantity: 2
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Fresh Prince
+Phone: 111-222-3333
+Address:
+451 Hollywood Blvd
+
+Bel Aire
+CA
+13456
+Credit Card:
+Credit card number: 23456789
+Credit Card Limit: $10000.00
+Current Balance: $9499.93
+Product:
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Purchase Quantity: 1
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Maria Gonzalez
+Phone: 128-009-2198
+Address:
+456 Oak Avenue
+
+Rivertown
+TX
+75001
+Credit Card:
+Credit card number: 39104912
+Credit Card Limit: $13000.00
+Current Balance: $11199.98
+Product:
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Purchase Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 39
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $4349.88
+Product:
+Name: Mouse
+Description: A wireless ergonomic mouse with adjustable DPI.
+Price: $49.99
+Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 40
+Customer:
+Name: Maria Gonzalez
+Phone: 128-009-2198
+Address:
+456 Oak Avenue
+
+Rivertown
+TX
+75001
+Credit Card:
+Credit card number: 39104912
+Credit Card Limit: $13000.00
+Current Balance: $12399.95
+Product:
+Name: Monitor
+Description: A 27-inch 4K UHD monitor with HDR support.
+Price: $399.99
+Quantity: 3
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Maria Gonzalez
+Phone: 128-009-2198
+Address:
+456 Oak Avenue
+
+Rivertown
+TX
+75001
+Credit Card:
+Credit card number: 39104912
+Credit Card Limit: $13000.00
+Current Balance: $12399.95
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Purchase Quantity: 2
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $5439.90
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Purchase Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 41
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $12929.87
+Product:
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Quantity: 1
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: John Smith
+Phone: 221-098-2818
+Address:
+123 Nowhere Rd
+
+Some City
+Some State
+12345
+Credit Card:
+Credit card number: 11330094
+Credit Card Limit: $500.00
+Current Balance: $409.98
+Product:
+Name: Mouse
+Description: A wireless ergonomic mouse with adjustable DPI.
+Price: $49.99
+Purchase Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 42
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $3039.92
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 43
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $4849.86
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 44
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $3429.89
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 45
+Customer:
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $9349.92
+Product:
+Name: Headphones
+Description: Noise-cancelling over-ear headphones with Bluetooth connectivity.
+Price: $199.99
+Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 46
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $13409.84
+Product:
+Name: Keyboard
+Description: A mechanical keyboard with RGB backlighting.
+Price: $159.99
+Quantity: 3
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 47
+Customer:
+Name: Maria Gonzalez
+Phone: 128-009-2198
+Address:
+456 Oak Avenue
+
+Rivertown
+TX
+75001
+Credit Card:
+Credit card number: 39104912
+Credit Card Limit: $13000.00
+Current Balance: $12529.94
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 1
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Fresh Prince
+Phone: 111-222-3333
+Address:
+451 Hollywood Blvd
+
+Bel Aire
+CA
+13456
+Credit Card:
+Credit card number: 23456789
+Credit Card Limit: $10000.00
+Current Balance: $9499.93
+Product:
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Purchase Quantity: 2
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $8729.86
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Purchase Quantity: 2
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $5439.90
+Product:
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Purchase Quantity: 1
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 48
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $5329.87
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 49
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $5799.85
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 1
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $5799.85
+Product:
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Purchase Quantity: 2
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $8729.86
+Product:
+Name: Headphones
+Description: Noise-cancelling over-ear headphones with Bluetooth connectivity.
+Price: $199.99
+Purchase Quantity: 2
+
+Successfull transaction!
+Transaction Details:
+Transaction #: 50
+Customer:
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $9599.91
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 1
+
+Unsuccessfull transaction!
+Transaction Details:
+Person:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $8729.86
+Product:
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Purchase Quantity: 3
+
+Store info: 
+
+
+Customers: 
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $5329.87
+Name: Fresh Prince
+Phone: 111-222-3333
+Address:
+451 Hollywood Blvd
+
+Bel Aire
+CA
+13456
+Credit Card:
+Credit card number: 23456789
+Credit Card Limit: $10000.00
+Current Balance: $9499.93
+Name: John Smith
+Phone: 221-098-2818
+Address:
+123 Nowhere Rd
+
+Some City
+Some State
+12345
+Credit Card:
+Credit card number: 11330094
+Credit Card Limit: $500.00
+Current Balance: $409.98
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $5799.85
+Name: Albert Einstein
+Phone: 334-222-1098
+Address:
+1000 Scientific Lane
+EMC^2
+Wurttemberg
+Germany
+11145
+Credit Card:
+Credit card number: 12345678
+Credit Card Limit: $5000.00
+Current Balance: $3199.96
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $8729.86
+Name: Maria Gonzalez
+Phone: 128-009-2198
+Address:
+456 Oak Avenue
+
+Rivertown
+TX
+75001
+Credit Card:
+Credit card number: 39104912
+Credit Card Limit: $13000.00
+Current Balance: $12529.94
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $13409.84
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $9599.91
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $5439.90
+
+Products: 
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Name: Headphones
+Description: Noise-cancelling over-ear headphones with Bluetooth connectivity.
+Price: $199.99
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Name: Monitor
+Description: A 27-inch 4K UHD monitor with HDR support.
+Price: $399.99
+Name: Keyboard
+Description: A mechanical keyboard with RGB backlighting.
+Price: $159.99
+Name: Mouse
+Description: A wireless ergonomic mouse with adjustable DPI.
+Price: $49.99
+
+All Transactions: 
+
+Transaction #: 1
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $1329.99
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 1
+Transaction #: 2
+Customer:
+Name: Albert Einstein
+Phone: 334-222-1098
+Address:
+1000 Scientific Lane
+EMC^2
+Wurttemberg
+Germany
+11145
+Credit Card:
+Credit card number: 12345678
+Credit Card Limit: $5000.00
+Current Balance: $1749.99
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 1
+Transaction #: 3
+Customer:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $1489.97
+Product:
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Quantity: 3
+Transaction #: 4
+Customer:
+Name: Albert Einstein
+Phone: 334-222-1098
+Address:
+1000 Scientific Lane
+EMC^2
+Wurttemberg
+Germany
+11145
+Credit Card:
+Credit card number: 12345678
+Credit Card Limit: $5000.00
+Current Balance: $2249.97
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 2
+Transaction #: 5
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $4099.97
+Product:
+Name: Headphones
+Description: Noise-cancelling over-ear headphones with Bluetooth connectivity.
+Price: $199.99
+Quantity: 3
+Transaction #: 6
+Customer:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $2149.95
+Product:
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Quantity: 2
+Transaction #: 7
+Customer:
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $5799.98
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Quantity: 2
+Transaction #: 8
+Customer:
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $3499.98
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 2
+Transaction #: 9
+Customer:
+Name: Fresh Prince
+Phone: 111-222-3333
+Address:
+451 Hollywood Blvd
+
+Bel Aire
+CA
+13456
+Credit Card:
+Credit card number: 23456789
+Credit Card Limit: $10000.00
+Current Balance: $3299.98
+Product:
+Name: Monitor
+Description: A 27-inch 4K UHD monitor with HDR support.
+Price: $399.99
+Quantity: 2
+Transaction #: 10
+Customer:
+Name: Fresh Prince
+Phone: 111-222-3333
+Address:
+451 Hollywood Blvd
+
+Bel Aire
+CA
+13456
+Credit Card:
+Credit card number: 23456789
+Credit Card Limit: $10000.00
+Current Balance: $8999.95
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Quantity: 3
+Transaction #: 11
+Customer:
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $3979.95
+Product:
+Name: Keyboard
+Description: A mechanical keyboard with RGB backlighting.
+Price: $159.99
+Quantity: 3
+Transaction #: 12
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $1929.96
+Product:
+Name: Headphones
+Description: Noise-cancelling over-ear headphones with Bluetooth connectivity.
+Price: $199.99
+Quantity: 3
+Transaction #: 13
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $4489.94
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 3
+Transaction #: 14
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $2879.95
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 1
+Transaction #: 15
+Customer:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $7849.92
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Quantity: 3
+Transaction #: 16
+Customer:
+Name: Fresh Prince
+Phone: 111-222-3333
+Address:
+451 Hollywood Blvd
+
+Bel Aire
+CA
+13456
+Credit Card:
+Credit card number: 23456789
+Credit Card Limit: $10000.00
+Current Balance: $9249.94
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 1
+Transaction #: 17
+Customer:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $8179.91
+Product:
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Quantity: 1
+Transaction #: 18
+Customer:
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $8649.95
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 3
+Transaction #: 19
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $399.99
+Product:
+Name: Monitor
+Description: A 27-inch 4K UHD monitor with HDR support.
+Price: $399.99
+Quantity: 1
+Transaction #: 20
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $4649.93
+Product:
+Name: Keyboard
+Description: A mechanical keyboard with RGB backlighting.
+Price: $159.99
+Quantity: 1
+Transaction #: 21
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $3539.93
+Product:
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Quantity: 2
+Transaction #: 22
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $3589.92
+Product:
+Name: Mouse
+Description: A wireless ergonomic mouse with adjustable DPI.
+Price: $49.99
+Quantity: 1
+Transaction #: 23
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $2299.97
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 2
+Transaction #: 24
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $2779.94
+Product:
+Name: Keyboard
+Description: A mechanical keyboard with RGB backlighting.
+Price: $159.99
+Quantity: 3
+Transaction #: 25
+Customer:
+Name: Maria Gonzalez
+Phone: 128-009-2198
+Address:
+456 Oak Avenue
+
+Rivertown
+TX
+75001
+Credit Card:
+Credit card number: 39104912
+Credit Card Limit: $13000.00
+Current Balance: $10949.99
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 1
+Transaction #: 26
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $4249.90
+Product:
+Name: Tablet
+Description: A 10-inch tablet with 64GB storage and a high-resolution display.
+Price: $329.99
+Quantity: 2
+Transaction #: 27
+Customer:
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $4239.93
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 2
+Transaction #: 28
+Customer:
+Name: Maria Gonzalez
+Phone: 128-009-2198
+Address:
+456 Oak Avenue
+
+Rivertown
+TX
+75001
+Credit Card:
+Credit card number: 39104912
+Credit Card Limit: $13000.00
+Current Balance: $11199.98
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 1
+Transaction #: 29
+Customer:
+Name: Fresh Prince
+Phone: 111-222-3333
+Address:
+451 Hollywood Blvd
+
+Bel Aire
+CA
+13456
+Credit Card:
+Credit card number: 23456789
+Credit Card Limit: $10000.00
+Current Balance: $9499.93
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 1
+Transaction #: 30
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $2909.93
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 1
+Transaction #: 31
+Customer:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $8329.88
+Product:
+Name: Mouse
+Description: A wireless ergonomic mouse with adjustable DPI.
+Price: $49.99
+Quantity: 3
+Transaction #: 32
+Customer:
+Name: Michael Lee
+Phone: 664-992-2211
+Address:
+202 Birch Lane
+
+Meadowville
+FL
+32003
+Credit Card:
+Credit card number: 34567890
+Credit Card Limit: $7500.00
+Current Balance: $5439.90
+Product:
+Name: Monitor
+Description: A 27-inch 4K UHD monitor with HDR support.
+Price: $399.99
+Quantity: 3
+Transaction #: 33
+Customer:
+Name: John Smith
+Phone: 221-098-2818
+Address:
+123 Nowhere Rd
+
+Some City
+Some State
+12345
+Credit Card:
+Credit card number: 11330094
+Credit Card Limit: $500.00
+Current Balance: $409.98
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 2
+Transaction #: 34
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $8449.91
+Product:
+Name: Smartphone
+Description: A latest model smartphone with a 6.5-inch, foldable display and 128GB storage.
+Price: $1899.99
+Quantity: 2
+Transaction #: 35
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $8929.88
+Product:
+Name: Keyboard
+Description: A mechanical keyboard with RGB backlighting.
+Price: $159.99
+Quantity: 3
+Transaction #: 36
+Customer:
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $9149.93
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 2
+Transaction #: 37
+Customer:
+Name: Albert Einstein
+Phone: 334-222-1098
+Address:
+1000 Scientific Lane
+EMC^2
+Wurttemberg
+Germany
+11145
+Credit Card:
+Credit card number: 12345678
+Credit Card Limit: $5000.00
+Current Balance: $3199.96
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 1
+Transaction #: 38
+Customer:
+Name: Alex Johnson
+Phone: 892-001-2234
+Address:
+123 Maple Street
+
+Springfield
+IL
+62701
+Credit Card:
+Credit card number: 91042834
+Credit Card Limit: $9000.00
+Current Balance: $8729.86
+Product:
+Name: Headphones
+Description: Noise-cancelling over-ear headphones with Bluetooth connectivity.
+Price: $199.99
+Quantity: 2
+Transaction #: 39
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $4349.88
+Product:
+Name: Mouse
+Description: A wireless ergonomic mouse with adjustable DPI.
+Price: $49.99
+Quantity: 2
+Transaction #: 40
+Customer:
+Name: Maria Gonzalez
+Phone: 128-009-2198
+Address:
+456 Oak Avenue
+
+Rivertown
+TX
+75001
+Credit Card:
+Credit card number: 39104912
+Credit Card Limit: $13000.00
+Current Balance: $12399.95
+Product:
+Name: Monitor
+Description: A 27-inch 4K UHD monitor with HDR support.
+Price: $399.99
+Quantity: 3
+Transaction #: 41
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $12929.87
+Product:
+Name: Laptop
+Description: A high-performance laptop with 16GB RAM and 512GB SSD.
+Price: $3999.99
+Quantity: 1
+Transaction #: 42
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $3039.92
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 1
+Transaction #: 43
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $4849.86
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 2
+Transaction #: 44
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $3429.89
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 3
+Transaction #: 45
+Customer:
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $9349.92
+Product:
+Name: Headphones
+Description: Noise-cancelling over-ear headphones with Bluetooth connectivity.
+Price: $199.99
+Quantity: 1
+Transaction #: 46
+Customer:
+Name: David Smith
+Phone: 899-335-5812
+Address:
+789 Pine Road
+
+Lakeside
+CA
+92040
+Credit Card:
+Credit card number: 39201123
+Credit Card Limit: $14000.00
+Current Balance: $13409.84
+Product:
+Name: Keyboard
+Description: A mechanical keyboard with RGB backlighting.
+Price: $159.99
+Quantity: 3
+Transaction #: 47
+Customer:
+Name: Maria Gonzalez
+Phone: 128-009-2198
+Address:
+456 Oak Avenue
+
+Rivertown
+TX
+75001
+Credit Card:
+Credit card number: 39104912
+Credit Card Limit: $13000.00
+Current Balance: $12529.94
+Product:
+Name: Printer
+Description: A wireless all-in-one printer with scanning and copying functions.
+Price: $129.99
+Quantity: 1
+Transaction #: 48
+Customer:
+Name: John Wick
+Phone: 123-456-7890
+Address:
+111 Hollywood Lane
+
+Hollywood
+CA
+99941
+Credit Card:
+Credit card number: 11111111
+Credit Card Limit: $100000.00
+Current Balance: $5329.87
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 2
+Transaction #: 49
+Customer:
+Name: Jane Doe
+Phone: 129-992-5533
+Address:
+998 Somewhere Rd
+
+Another City
+Another State
+54321
+Credit Card:
+Credit card number: 45678901
+Credit Card Limit: $6000.00
+Current Balance: $5799.85
+Product:
+Name: Camera
+Description: A digital camera with 24MP resolution and 4K video recording.
+Price: $949.99
+Quantity: 1
+Transaction #: 50
+Customer:
+Name: Emily Brown
+Phone: 992-110-9922
+Address:
+101 Elm Boulevard
+
+Greenfield
+NY
+12110
+Credit Card:
+Credit card number: 12890223
+Credit Card Limit: $12000.00
+Current Balance: $9599.91
+Product:
+Name: Smartwatch
+Description: A smartwatch with fitness tracking and heart rate monitoring.
+Price: $249.99
+Quantity: 1
+

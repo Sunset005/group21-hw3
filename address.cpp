@@ -3,7 +3,6 @@
 
 string address::address_info()
 {
-    string info = "Address:\n" + address_line1 + "\n" + address_line2;
-    info += "\n" + city + "\n" + state + "\n" + zip;
+    string info = address_line1 + "\n" + address_line2 + "\n" + city + "\n" + state + "\n" + zip;
     return info;
 }
